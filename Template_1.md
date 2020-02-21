@@ -15,7 +15,12 @@ Please delete options that are not relevant.
 
 Leave blank if none of the changes are behind a feature flag.
 
-* flag_name(<Jira>)    // (Example: impression_usage_page(MONEY-3436))
+<details>
+ <summary>Flag_name (Example: "impression_usage_page") </summary>
+ <p>Jira (Example: MONEY-3436)</p>
+ <p>Project ID (Example: 8351122416)</p>
+ <p>Flag ID (Example: 17476121377)</p>
+</details>
 
 ## Rationale for not flagging
 
