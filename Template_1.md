@@ -12,6 +12,6 @@ Please delete options that are not relevant.
 - [ ] Other (Please describe)
 
 ## Feature Flag(s)
-* flag_name(<Jira>)(Example: impression_usage_page(MONEY-3436))
+* flag_name(<Jira>)    // (Example: impression_usage_page(MONEY-3436))
 
 
