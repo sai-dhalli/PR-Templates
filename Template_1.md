@@ -12,6 +12,12 @@ Please delete options that are not relevant.
 - [ ] Other (Please describe)
 
 ## Feature Flag(s)
+
+Leave blank if none of the changes are behind a feature flag.
+
 * flag_name(<Jira>)    // (Example: impression_usage_page(MONEY-3436))
 
+## Rationale for not flagging
+
+If none of the changes are flagged, please explain the reason for not flagging them.
 
