@@ -15,7 +15,7 @@ Please delete options that are not relevant.
 
 Leave blank if none of the changes are behind a feature flag.
 
-** flag_name(<Jira>)    // (Example: impression_usage_page(MONEY-3436))
+* flag_name(<Jira>)    // (Example: impression_usage_page(MONEY-3436))
 
 ## Rationale for not flagging
 
